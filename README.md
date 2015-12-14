@@ -1,2 +1,2 @@
 # headtracker
-Head tracking application to use with Arduin-based boards and MEMS sensors
+Head tracking application to use with Arduino-based boards and MEMS sensors
